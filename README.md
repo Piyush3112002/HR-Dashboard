@@ -42,3 +42,26 @@ Average Salary (Attrition vs Retention)
 Attrition Trend Over Time
 
 Department-wise Cost Impact
+
+
+📊 Dashboard Highlights (Power BI)
+
+KPI Cards: Attrition %, Headcount, Avg Salary
+
+Bar Charts: Attrition by Department, Age, Salary Band
+
+Line Chart: Attrition trend over time
+
+Heatmap: Tenure vs Attrition risk
+
+Slicers: Age, Department, Salary Band, Company
+
+
+
+🚀 Insights & Recommendations
+
+High-risk group: Young employees (25–35 yrs) in Sales & HR leaving within 2 years.
+
+Retention lever: Introduce salary benchmarking & career progression programs.
+
+Business units with attrition > company average need targeted HR policies.
