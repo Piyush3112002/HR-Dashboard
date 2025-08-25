@@ -14,3 +14,31 @@ Power BI – Interactive dashboards with drilldowns
 Excel / CSV – Raw HR dataset
 
 DAX – Custom measures for attrition KPIs
+
+🎯 Key Objectives
+
+Identify attrition patterns across employee attributes
+
+Highlight high-risk employee groups for targeted retention
+
+Provide visual insights for HR leaders and managers
+
+📊 Attrition Dimensions Analyzed
+
+✔ Age Group – Younger employees show higher attrition tendencies
+✔ Department – Sales & HR report higher turnover compared to IT/Finance
+✔ Tenure (Years at Company) – Majority of exits occur within the first 2 years
+✔ Salary Bands – Lower salary ranges correlate with higher attrition
+✔ Company/Business Unit – Variations in attrition across different units
+
+📈 Key Metrics (KPIs)
+
+Attrition % = (Employees Left ÷ Total Employees) × 100
+
+Attrition by Age, Department, Tenure, Salary, Company
+
+Average Salary (Attrition vs Retention)
+
+Attrition Trend Over Time
+
+Department-wise Cost Impact
