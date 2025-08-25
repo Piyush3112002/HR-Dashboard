@@ -26,9 +26,13 @@ Provide visual insights for HR leaders and managers
 📊 Attrition Dimensions Analyzed
 
 ✔ Age Group – Younger employees show higher attrition tendencies
+
 ✔ Department – Sales & HR report higher turnover compared to IT/Finance
+
 ✔ Tenure (Years at Company) – Majority of exits occur within the first 2 years
+
 ✔ Salary Bands – Lower salary ranges correlate with higher attrition
+
 ✔ Company/Business Unit – Variations in attrition across different units
 
 📈 Key Metrics (KPIs)
